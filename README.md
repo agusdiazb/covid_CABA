@@ -2,7 +2,7 @@
 * manipulate and clean data set
 * visualize data
 
-## Code and Resourses Used
+## Code and Resources Used
 **Packages:** 
   - **pandas**
   - **matplotlib**
