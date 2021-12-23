@@ -1,4 +1,4 @@
-# Data Analysis of Covid - Ciudad Autónoma de Buenos Aires (CABA)
+# Covid Data Analysis - Ciudad Autónoma de Buenos Aires (CABA)
 * manipulate and clean data set
 * visualize data
 
