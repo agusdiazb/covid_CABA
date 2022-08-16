@@ -1,4 +1,7 @@
 # Covid Data Analysis - Ciudad Autónoma de Buenos Aires (CABA)
+
+This notebook consists in a data analysis of Covid cases in the City of Buenos Aires.
+
 * manipulate and clean data set
 * visualize data
 
